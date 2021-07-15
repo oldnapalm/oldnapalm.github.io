@@ -26,8 +26,7 @@ Ride with ghosts from previous activities
 
 ### BicycleCity
 
-* Replace cars by bikes
-* Change NPC drivers and cyclists behavior
+* Change NPC drivers behavior
 * Spawn cheering crowds on climbs
 * Remove attacking NPCs
 
