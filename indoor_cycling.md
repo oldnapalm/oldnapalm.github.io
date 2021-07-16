@@ -32,11 +32,17 @@ Ride with ghosts from previous activities
 
 [https://github.com/oldnapalm/BicycleCity](https://github.com/oldnapalm/BicycleCity)
 
-### GTA Coop
+### GTACoop
 
 Multiplayer mod
 
 [https://github.com/oldnapalm/GTACoOp](https://github.com/oldnapalm/GTACoOp)
+
+### GTACoop-R
+
+Rewrite of the GTACoop multiplayer mod
+
+[https://github.com/GTACOOP-R/GTACoop-R](https://github.com/GTACOOP-R/GTACoop-R)
 
 ### CoordRecorder
 
