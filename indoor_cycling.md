@@ -42,7 +42,7 @@ Multiplayer mod
 
 Rewrite of the GTACoop multiplayer mod
 
-[https://github.com/GTACOOP-R/GTACoop-R](https://github.com/GTACOOP-R/GTACoop-R)
+[https://github.com/oldnapalm/GTACoop-R/releases](https://github.com/oldnapalm/GTACoop-R/releases)
 
 ### CoordRecorder
 
