@@ -52,7 +52,7 @@ Course creation mod
 
 ### DriveModes
 
-Custom first person camera
+Custom camera modes for vehicles
 
 [https://github.com/oldnapalm/DriveModes](https://github.com/oldnapalm/DriveModes)
 
