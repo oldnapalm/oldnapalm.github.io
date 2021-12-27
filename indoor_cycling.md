@@ -29,20 +29,21 @@ Ride with ghosts from previous activities
 * Change NPC drivers behavior
 * Spawn cheering crowds on climbs
 * Remove attacking NPCs
+* Avoid falling from bike
 
 [https://github.com/oldnapalm/BicycleCity](https://github.com/oldnapalm/BicycleCity)
-
-### GTACoop
-
-Multiplayer mod
-
-[https://github.com/oldnapalm/GTACoOp](https://github.com/oldnapalm/GTACoOp)
 
 ### GTACoop-R
 
 Rewrite of the GTACoop multiplayer mod
 
-[https://github.com/oldnapalm/GTACoop-R/releases](https://github.com/oldnapalm/GTACoop-R/releases)
+[https://github.com/GTACOOP-R/GTACoop-R](https://github.com/GTACOOP-R/GTACoop-R)
+
+### GTACoop
+
+Multiplayer mod
+
+[https://gitlab.com/cgmp/gta](https://gitlab.com/cgmp/gta)
 
 ### CoordRecorder
 
@@ -55,12 +56,6 @@ Course creation mod
 Custom camera modes for vehicles
 
 [https://github.com/oldnapalm/DriveModes](https://github.com/oldnapalm/DriveModes)
-
-### Seatbelt Menu
-
-Avoid being knocked off the bike
-
-[https://github.com/oldnapalm/Seatbelt_Menu](https://github.com/oldnapalm/Seatbelt_Menu)
 
 ### LongerDays
 
