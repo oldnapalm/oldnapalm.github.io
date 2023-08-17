@@ -5,10 +5,12 @@
 Use Zwift offline
 
 * Ride with ghosts from previous activities
-* Pace partners
+* Pace partners and bots
 * Multiplayer
 
 [https://github.com/zoffline/zwift-offline](https://github.com/zoffline/zwift-offline)
+
+[Creating a server on Oracle Cloud Free Tier](https://github.com/oldnapalm/zwift-offline/wiki/Creating-a-server-on-Oracle-Cloud-Free-Tier)
 
 ## vpower
 
@@ -33,18 +35,6 @@ Ride with ghosts from previous activities
 
 [https://github.com/oldnapalm/BicycleCity](https://github.com/oldnapalm/BicycleCity)
 
-### GTACoop-R
-
-Rewrite of the GTACoop multiplayer mod
-
-[https://github.com/GTACOOP-R/GTACoop-R](https://github.com/GTACOOP-R/GTACoop-R)
-
-### GTACoop
-
-Multiplayer mod
-
-[https://gitlab.com/cgmp/gta](https://gitlab.com/cgmp/gta)
-
 ### CoordRecorder
 
 Course creation mod
@@ -53,7 +43,7 @@ Course creation mod
 
 ### DriveModes
 
-Custom camera modes for vehicles
+Custom camera modes
 
 [https://github.com/oldnapalm/DriveModes](https://github.com/oldnapalm/DriveModes)
 
@@ -64,27 +54,8 @@ Custom camera modes for vehicles
 
 [https://github.com/oldnapalm/LongerDays](https://github.com/oldnapalm/LongerDays)
 
-### LoadCayoPerico
-
-Load the Cayo Perico island, enable routing and reveal the mini map
-
-[https://gist.github.com/oldnapalm/e284887eaf8812c285cd0e419b832482](https://gist.github.com/oldnapalm/e284887eaf8812c285cd0e419b832482)
-
-To try a course in the island, edit ``GTBikeVConfig.ini`` to use this course library and delete the file ``courses.json``
-and the ``PNG`` files in ``Documents\Rockstar Games\GTA V\ModSettings``
-
-```
-COURSELIBRARYURL = https%3A%2F%2Fraw.githubusercontent.com%2Foldnapalm%2Fgtbikev-courses%2Fmaster%2F
-```
-
 ## joy2key
 
 Steer in GTBikeV with any unsupported joystick
 
 [https://github.com/oldnapalm/joy2key](https://github.com/oldnapalm/joy2key)
-
-## Touch Racer / x360ce
-
-Steer in GTBikeV with Android phone
-
-[https://outlawcowboy.org/steering-in-gtbikev-with-touch-racer-and-x360ce/](https://outlawcowboy.org/steering-in-gtbikev-with-touch-racer-and-x360ce/)
